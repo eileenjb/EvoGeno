@@ -1,0 +1,7 @@
+---
+title: "index"
+author: "Eileen Black"
+date: "8/31/2020"
+output: html_document
+---
+file:///C:/Users/ejb71/Documents/EvoGeno/Lab1html_ejb.html
